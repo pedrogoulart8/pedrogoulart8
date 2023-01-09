@@ -3,7 +3,7 @@
 ### Site Pessoal:
 <a href="https://pedrogoulart8.github.io/Portfolio-Pedro-Goulart/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 
-![pedrogoulart8 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogoulart8&show_icons=true&theme=highcontrast)
+
 
 
 

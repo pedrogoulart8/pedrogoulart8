@@ -1,5 +1,6 @@
-### Olá, sou o Pedro, tudo bom? 👋😃
-
+<div align = "left">
+  ### Olá, sou o Pedro, tudo bom? 👋😃
+<div align = "left">
 ### Iniciei meus estudos com programação para criar sites ainda melhores que o WordPress me permitia. Desde então me apaixonei pela área e hoje busco uma transição de carreira para atuar como Desenvolvedor Front-End.
 
 <hr>

@@ -1,6 +1,6 @@
 ### Olá, sou o Pedro, tudo bom? 👋😃
 
-### Iniciei meus estudos em programação para criar sites ainda melhores que o WordPress me permitia. Desde então me apaixonei pela área e hoje busco uma transição de carreira para atuar como Desenvolvedor Front-End.
+### Iniciei meus estudos com programação para criar sites ainda melhores que o WordPress me permitia. Desde então me apaixonei pela área e hoje busco uma transição de carreira para atuar como Desenvolvedor Front-End.
 
 <hr>
 <br>

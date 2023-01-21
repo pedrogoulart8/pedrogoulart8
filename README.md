@@ -1,8 +1,8 @@
-# Olá, sou o Pedro, tudo bom? 👋😃
+## Olá, sou o Pedro, tudo bom? 👋😃
 
 ### Iniciei meus estudos em programação para criar sites ainda melhores que o WordPress me permitia. Desde então me apaixonei pela área e hoje busco minha primeira oportunidade como Front-End.
 
-
+<hr>
 
 ### Site Pessoal:
 <a href="https://pedrogoulart8.github.io/Portfolio-Pedro-Goulart/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>

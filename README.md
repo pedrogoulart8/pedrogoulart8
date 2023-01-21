@@ -15,9 +15,9 @@
 
 <br>
 
-### 📢Possuo experiência com Marketing Digital, principalmente em Tráfego Pago(Google/Youtube e Facebook/Instagram)
+### 📢 Possuo experiência com Marketing Digital, principalmente em Tráfego Pago(Google/Youtube e Facebook/Instagram)
 
-### 💡 Bacharel em Administração de Empresas 
+### 💻 Bacharel em Administração de Empresas 
 
 <br>
 

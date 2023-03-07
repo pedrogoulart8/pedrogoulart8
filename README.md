@@ -20,7 +20,7 @@
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogoulart8&show_icons=true&theme=highcontrast&count_private=true"/>
 
-<br><br>
+<br>
 
 ### 📢 Possuo experiência com Marketing Digital, principalmente em Tráfego Pago(Google/Youtube e Facebook/Instagram)
 

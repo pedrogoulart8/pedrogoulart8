@@ -9,7 +9,7 @@
 <br>
 
 ## Site Pessoal:
-<a href="https://pedrogoulart8.github.io/Portfolio-Pedro-Goulart/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+
 
 
 ## Tecnologias mais usadas diariamente:

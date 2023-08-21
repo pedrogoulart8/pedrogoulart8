@@ -1,7 +1,7 @@
 <div align = "left">
   <h2 align="center">Olá, sou o Pedro, tudo bom? 👋😃</h2>
 
-<h3 align="center">Sou um desenvolvedor Front-End apaixonado por tecnologia.</h3>
+<h3 align="center">Sou um desenvolvedor Front-End apaixonado por tecnologia. Meu portfólio contém uma seleção dos meus projetos pessoais onde busco aplicar meus conhecimentos em soluções para os problemas do nosso cotidiano.</h3>
 </div>
 
 

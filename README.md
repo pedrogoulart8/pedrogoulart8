@@ -9,7 +9,7 @@
 <br>
 
 ## Site Pessoal:
-<a href="https://pedrogoulart8.github.io/Portfolio-Pedro-Goulart/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+<a href="https://pedrogoulart8.github.io/portfolio-pedro-goulart/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 
 
 
@@ -22,13 +22,7 @@
 
 <br>
 
-### 📢 Possuo experiência com Marketing Digital, principalmente em Tráfego Pago(Google/Youtube e Facebook/Instagram)
-
-### 💻 Bacharel em Administração de Empresas 
-
-<br>
-
 ### Gostaria de entrar em contato?
 
-<a href="mailto:pedromgoulart@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:pedromgoulartt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedromgoulart/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

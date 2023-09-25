@@ -9,7 +9,7 @@
 <br>
 
 ## Site Pessoal:
-<a href="[https://pedrogoulart8.github.io/portfolio-pedro-goulart/](https://pedrogoulart8.github.io/portfolio-pgoulart-2023/)"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+<a href="https://pedrogoulart8.github.io/portfolio-pgoulart-2023/"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 
 
 
